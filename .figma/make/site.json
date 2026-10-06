@@ -1,0 +1,10 @@
+{
+  "description": "Create interactive diagrams with functional buttons that users can easily export for presentations, reports, or project planning.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
